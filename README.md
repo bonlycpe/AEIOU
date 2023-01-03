@@ -6,6 +6,6 @@ AEIOU game is a java university game project that has inspired by the first game
 
 
 # Game Screenshot
+<img src="https://user-images.githubusercontent.com/106681968/210355458-3e2eaa86-faa6-4a14-bb17-8cf5d0f61e05.jpg" width=70% height=70%>
 <img src="https://user-images.githubusercontent.com/106681968/210354755-c6dde72c-808c-4bc4-9a0e-9a5046bdbc88.jpg" width=50% height=50%>
-![AEIOUGAME_Screenshot_01](https://user-images.githubusercontent.com/106681968/210354755-c6dde72c-808c-4bc4-9a0e-9a5046bdbc88.jpg )
-![AEIOUGAME_Screenshot_02](https://user-images.githubusercontent.com/106681968/210354759-fa8ec566-87a0-4727-998a-1da774a27e2a.jpg )
+
