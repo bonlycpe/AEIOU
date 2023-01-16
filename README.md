@@ -2,7 +2,7 @@
 
 ![Original](https://user-images.githubusercontent.com/106681968/210352077-c3797a8e-f06e-464b-bb3f-88ebbbe0ae52.gif)
 
-AEIOU game is a java university game project that has inspired by the first game of the Korean series squid game (2021) which is based on a school game, where one player calls out a ‘green light’ indicating to the group behind them to run, or ‘red light’, which means everyone must stop. If you move after the ‘red light’ is announced, you lose but we have modified the rules to an A E I O U sound starting with A and ending with U but ending with the same rule that the player needs to go to the final line within a time limit
+AEIOU game is a java university game project that has inspired by the first game of the Korean series squid game (2021) which is based on a school game, where one player calls out a ‘green light’ indicating to the group behind them to run, or ‘red light’, which means everyone must stop. If you move after the ‘red light’ is announced, you lose but we have modified the rules to an A E I O U sound starting with A and ending with U but ending with the same rule that the player needs to go to the final line within a time limit.
 
 
 # Game Screenshot
