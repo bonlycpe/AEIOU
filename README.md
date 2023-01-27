@@ -8,7 +8,7 @@ AEIOU game is a java university game project that has inspired by the first game
 # Game Screenshot
 <img src="https://user-images.githubusercontent.com/106681968/210355458-3e2eaa86-faa6-4a14-bb17-8cf5d0f61e05.jpg" width=70% height=70%>
 
-! player can choose a game level each level bot and obstruction will harder
+player can choose a game level each level bot and obstruction will harder
 
 <img src="https://user-images.githubusercontent.com/106681968/210354755-c6dde72c-808c-4bc4-9a0e-9a5046bdbc88.jpg" width=70% height=70%>
 
